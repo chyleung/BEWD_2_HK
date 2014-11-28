@@ -1,0 +1,16 @@
+user_stories
+
+1)
+As a user, I can create/ delete an account on the website either as a new user or using facebook login.
+
+2)
+As a user, I can search for the contacts of partner restuarants in any district, so that I know which restaurants provide food vouchers.
+
+3)
+As a user, I can search for and join events in any district, so that I can participate in these events.
+
+4)
+As a user, I can create/ deletes events in any district, so that I can organize an events that other users can attend (can this be linked to facebook events?).
+
+5)
+As a user, I can sign up/ unsubscribe for notifications on the website to know if the districts I'm interested in has new partner restuarants or new events. 
